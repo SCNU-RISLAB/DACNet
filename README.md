@@ -17,15 +17,18 @@
 </div>
 
 
+---
+
 # 📖Model Application
-**End-to-end real-time detection of the number of people on campus.**
+**End-to-end real-time detection.**  **The model has been deployed on edge computing devices and is used for campus crowd monitoring.**
+
+
 
 <div align="center">
 
 ## Model deployment and detection process
 
 
-<div align="center">
 <div align="center">
   <img src="https://github.com/SCNU-RISLAB/DACNet/blob/main/Model%20deployment%20and%20real-world%20application..jpg" width="800">
 </div>
@@ -44,6 +47,9 @@
 <div align="center">
   <img src="https://github.com/SCNU-RISLAB/DACNet/blob/main/The%20variation%20in%20crowd%20count.jpg" alt="kk" width="650">
 </div>
+
+
+
 
 ## 👏Acknowledgment
 This repo is based on [P2PNet](https://github.com/TencentYoutuResearch/CrowdCounting-P2PNet) and [APGCC](https://github.com/AaronCIH/APGCC), we are very grateful for their excellent work.
