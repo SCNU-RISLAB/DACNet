@@ -9,12 +9,12 @@
 </div>
 
 
-
+ 
 # 🎉visualization
 
-
-
-![Image Description](https://github.com/SCNU-RISLAB/DACNet/raw/main/vs.jpg)
+<div align="center">
+  <img src="https://github.com/SCNU-RISLAB/DACNet/raw/main/vs3.jpg" alt="Image Description" width="800">
+</div>
 
 
 # 📖Model Application
@@ -24,25 +24,46 @@
 
 ## Model deployment and detection process
 
-</div>
-
-![kk1](https://github.com/SCNU-RISLAB/DACNet/blob/main/Model%20deployment%20and%20real-world%20application..jpg)
-
 
 <div align="center">
+<div align="center">
+  <img src="https://github.com/SCNU-RISLAB/DACNet/blob/main/Model%20deployment%20and%20real-world%20application..jpg" width="800">
+</div>
+
+
 
 ## real-world crowd counting 
 
 <div align="center">
-  <img src="https://github.com/SCNU-RISLAB/DACNet/blob/main/End-to-end%20real-time%20detection%20of%20the%20number%20of%20people%20on%20campus..gif" width="800">
+  <img src="https://github.com/SCNU-RISLAB/DACNet/blob/main/End-to-end%20real-time%20detection%20of%20the%20number%20of%20people%20on%20campus..gif" width="600">
 </div>
 
 
-## The variation in crowd count along a specific section of the school over the course of a day
+## Campus Population Flow Changes
 
+<div align="center">
+  <img src="https://github.com/SCNU-RISLAB/DACNet/blob/main/The%20variation%20in%20crowd%20count.jpg" alt="kk" width="650">
 </div>
 
-![kk](https://github.com/SCNU-RISLAB/DACNet/blob/main/The%20variation%20in%20crowd%20count.jpg)
+## 👏Acknowledgment
+This repo is based on [P2PNet](https://github.com/TencentYoutuResearch/CrowdCounting-P2PNet) and [APGCC](https://github.com/AaronCIH/APGCC), we are very grateful for their excellent work.
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
